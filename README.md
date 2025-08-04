@@ -21,9 +21,9 @@ Task 1 of Elevate Labs Cybersecurity Internship – Local network scanning using
    ```bash
    nmap -sS 192.168.0.0/24
   
-4.ollected IP addresses and noted open ports.
-5.Analyzed results and identified common services.
-6.Saved the scan output and documented findings.
+4. Collected IP addresses and noted open ports.
+5. Analyzed results and identified common services.
+6. Saved the scan output and documented findings.
 
 
 outcomes:
